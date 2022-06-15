@@ -14,5 +14,7 @@ I'm a computer science enthusiast 💻.
 <img src="https://cdn4.iconfinder.com/data/icons/logos-3/600/React.js_logo-512.png" alt="cpp" height="40" style="vertical-align:top; margin:4px">
 
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/MongoDB_Logo.svg/2560px-MongoDB_Logo.svg.png" alt="MongoDB" height="40" style="vertical-align:top; margin:4px">
+  
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1024px-Python-logo-notext.svg.png" alt="MongoDB" height="40" style="vertical-align:top; margin:4px">
 
 </p> 
