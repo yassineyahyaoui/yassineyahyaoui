@@ -18,3 +18,9 @@ I'm a computer science enthusiast 💻.
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1024px-Python-logo-notext.svg.png" alt="MongoDB" height="40" style="vertical-align:top; margin:4px">
 
 </p> 
+
+
+## Stats
+
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=yassineyahyaoui&theme=algolia" alt="yassineyahyaoui" /></p>
+
