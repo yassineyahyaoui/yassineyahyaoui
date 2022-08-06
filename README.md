@@ -1,6 +1,6 @@
 ### Hi there 👋
 #### My name is Mohamed Yassine Yahyaoui.
-I'm a computer science enthusiast 💻.
+I'm a computer science enthusiast working on an interesting project 💻!
 
 ## Languages and tools
 <p align="center">
