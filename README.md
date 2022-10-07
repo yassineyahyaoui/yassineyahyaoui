@@ -24,4 +24,4 @@ I'm a computer science enthusiast working on an interesting project 💻!
 
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=yassineyahyaoui&theme=algolia" alt="yassineyahyaoui" /></p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yassineyahyaoui&layout=compact)]
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yassineyahyaoui&layout=compact)]([https://github.com/anuraghazra/github-readme-stats](https://github.com/yassineyahyaoui/yassineyahyaoui/README.md)
