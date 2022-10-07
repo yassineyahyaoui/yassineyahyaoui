@@ -23,3 +23,5 @@ I'm a computer science enthusiast working on an interesting project 💻!
 ## Stats
 
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=yassineyahyaoui&theme=algolia" alt="yassineyahyaoui" /></p>
+
+[![Yassine's GitHub stats](https://github-readme-stats.vercel.app/api?username=yassineyahyaoui)](https://github.com/yassineyahyaoui)
