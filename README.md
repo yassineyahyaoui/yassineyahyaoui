@@ -12,6 +12,7 @@ I'm a computer engineering student working on some interesting projects💻!
 <img src="https://cdn.worldvectorlogo.com/logos/spring-boot-1.svg" alt="spring boot" height="40" style="vertical-align:top; margin:4px">
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT8i4zPog-0j0JR_yZglxPhTPZXxN2iMTQ3Dw&s" alt="spring" height="40" style="vertical-align:top; margin:4px">
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRkxzdoDVo0sVskFaarmMdnn2Qr5ymyW-KyVA&s" alt="spring security" height="40" style="vertical-align:top; margin:4px">
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1200px-ISO_C%2B%2B_Logo.svg.png" alt="python" height="40" style="vertical-align:top; margin:4px">
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1024px-Python-logo-notext.svg.png" alt="python" height="40" style="vertical-align:top; margin:4px">
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="javascript" height="40" style="vertical-align:top; margin:4px">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" height="40" style="vertical-align:top; margin:4px">
