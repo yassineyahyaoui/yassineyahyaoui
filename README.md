@@ -1,6 +1,6 @@
 ### Hi there 👋
 #### My name is Mohamed Yassine Yahyaoui.
-I'm a computer science enthusiast working on an interesting project 💻!
+I'm a computer science enthusiast working on interesting projects 💻!
 
 ## Languages and tools
 <p align="center">
@@ -38,6 +38,7 @@ I'm a computer science enthusiast working on an interesting project 💻!
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" height="40" style="vertical-align:top; margin:4px">
 <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" height="40" style="vertical-align:top; margin:4px">
 <img src="https://upload.wikimedia.org/wikipedia/commons/5/59/JUnit_5_Banner.png" alt="junit" height="40" style="vertical-align:top; margin:4px">
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Android_Studio_Icon_3.6.svg/1900px-Android_Studio_Icon_3.6.svg.png" alt="android studio" height="40" style="vertical-align:top; margin:4px">
 
 </p> 
 
